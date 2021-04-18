@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lista de Contatos</string>
+    <string name="item_1">Menu 1</string>
+    <string name="item_2">Menu 2</string>
+    <string name="open">Abrir</string>
+    <string name="close">Fechar</string>
+</resources>
